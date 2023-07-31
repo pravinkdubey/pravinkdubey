@@ -32,6 +32,7 @@
 - 💬 Ask me about **Any Thing Related to Automation**
 
 - 📫 How to reach me <a href="mailto:pravin.k.dubey87@gmail.com">pravin.k.dubey87@gmail.com</a>
+or
 <a href="mailto:pravin.k.dubey87@outlook.com">pravin.k.dubey87@outlook.com</a>
 
 - 📄 Know about my experiences
