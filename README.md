@@ -3,7 +3,10 @@
 <h1 align="center">Hi There 👋, I'm Pravin Kumar Dubey </h1>
 <a href="https://www.linkedin.com/in/pravin-kumar-dubey" rel="nofollow"><img src="https://img.shields.io/badge/Pravin Kumar Dubey-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/pravin-kumar-dubey" style="max-width: 100%;" align="center" alt="https://www.linkedin.com/in/pravin-kumar-dubey" data-canonical-src="https://img.shields.io/badge/Pravin Kumar Dubey-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/pravin-kumar-dubey" style="max-width: 100%></a>
 
-<a href="https://github.com/pravinkdubey"><img align="center" alt="Pravin Kumar Dubey" data-canonical-src="https://img.shields.io/github/followers/pravinkdubey?label=follow&amp;style=social" style="max-width: 100%;"></a>
+<a href="https://github.com/pravinkdubey">
+<img align="center" src="https://img.shields.io/github/followers/pravinkdubey?label=follow&amp;style=social" style="max-width: 100%; alt="Pravin Kumar Dubey" 
+        data-canonical-src="https://img.shields.io/github/followers/pravinkdubey?label=follow&amp;style=social" style="max-width: 100%;">
+</a>
 
 <h2 align="center">A passionate for Automation Engineer from India </h3>
 
