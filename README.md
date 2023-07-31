@@ -44,13 +44,20 @@
         <img align="center" src="https://github.com/pravinkdubey/pravinkdubey/blob/main/Tools.png"/>
 </p>
 
-<p><img align="left"
+<!--
+<p>
+        <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=pravinkdubey&show_icons=true&locale=en&layout=compact"
-        alt="pravinkdubey" /></p>
+        alt="pravinkdubey" />
+</p>
 
-<p>&nbsp;<img align="center"
+<p>
+        <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=pravinkdubey&show_icons=true&locale=en"
-        alt="pravinkdubey" /></p>
+        alt="pravinkdubey" />
+</p>
+-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinkdubey&" alt="pravinkdubey" />
+<p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinkdubey&" alt="pravinkdubey" />
 </p>
