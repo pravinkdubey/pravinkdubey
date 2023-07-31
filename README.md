@@ -1,7 +1,7 @@
 ![logo](https://github.com/pravinkdubey/pravinkdubey/blob/main/Cover.png)
 
-<h1 align="center">Hi There 👋, I'm Pravin Kumar Dubey /h1>
-<h2 align="center">A passionate for Automation Engineer from India /h3>
+<h1 align="center">Hi There 👋, I'm Pravin Kumar Dubey </h1>
+<h2 align="center">A passionate for Automation Engineer from India </h3>
 
 <p align="left"> 
         <img src="https://komarev.com/ghpvc/?username=pravinkdubey&label=Profile%20views&color=0e75b6&style=flat"
@@ -55,7 +55,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
         <img align="center" src="https://github.com/pravinkdubey/pravinkdubey/blob/main/1690042717996.jpg"/>
-        <hr>
+</p>
+<p>
         <img align="center" src="https://github.com/pravinkdubey/pravinkdubey/blob/main/Tools.png"/>
 </p>
 
