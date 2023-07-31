@@ -21,12 +21,12 @@
         - 👯 I’m looking to collaborate on **Utilities**
         - 🤝 I’m looking for help with **Nothing Specific as Of Now 😉😉😉**
         - 📝 I regularly write articles on
-        [https://www.linkedin.com/newsletters/6986920160938856448?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D](https://www.linkedin.com/newsletters/6986920160938856448?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D)
+[https://www.linkedin.com/newsletters/6986920160938856448?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D](https://www.linkedin.com/newsletters/6986920160938856448?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D)
 
         - 💬 Ask me about **Any Thing Related to Automation**
         - 📫 How to reach me **pravin.k.dubey87@gmail.com**
         - 📄 Know about my experiences
-        [https://www.linkedin.com/in/pravin-kumar-dubey/overlay/1635531942651/single-media-viewer?type=DOCUMENT&profileId=ACoAACHSR60Bkx7GxN8Sqli8VM064Q-l70jhAnE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D](https://www.linkedin.com/in/pravin-kumar-dubey/overlay/1635531942651/single-media-viewer?type=DOCUMENT&profileId=ACoAACHSR60Bkx7GxN8Sqli8VM064Q-l70jhAnE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D)
+[https://www.linkedin.com/in/pravin-kumar-dubey/overlay/1635531942651/single-media-viewer?type=DOCUMENT&profileId=ACoAACHSR60Bkx7GxN8Sqli8VM064Q-l70jhAnE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D](https://www.linkedin.com/in/pravin-kumar-dubey/overlay/1635531942651/single-media-viewer?type=DOCUMENT&profileId=ACoAACHSR60Bkx7GxN8Sqli8VM064Q-l70jhAnE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D)
 </p>
 
 <h3 align="left">Connect with me:</h3>
