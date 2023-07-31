@@ -1,6 +1,10 @@
 ![logo](https://github.com/pravinkdubey/pravinkdubey/blob/main/Cover.png)
 
 <h1 align="center">Hi There 👋, I'm Pravin Kumar Dubey </h1>
+<a href="https://www.linkedin.com/in/pravin-kumar-dubey" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/63e9c6b708fc2921fb6052e5996eb79032ee73ef898e9e4e36a8f73df9360d9b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537269204861727368612d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7372696861727368613530392f" alt="https://www.linkedin.com/in/pravin-kumar-dubey" data-canonical-src="https://img.shields.io/badge/Pravin Kumar Dubey-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/pravin-kumar-dubey" style="max-width: 100%;"></a>
+
+<a href="https://github.com/harsha509"><img align="center" src="https://camo.githubusercontent.com/b13425415a79fc8537105607d8965aff2de60116a2f5ad886eb43b6e3ce13073/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6861727368613530393f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" alt="Pravin Kumar Dubey" data-canonical-src="https://img.shields.io/github/followers/pravinkdubey?label=follow&amp;style=social" style="max-width: 100%;"></a>
+
 <h2 align="center">A passionate for Automation Engineer from India </h3>
 
 <p align="left"> 
