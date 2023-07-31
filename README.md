@@ -1,5 +1,6 @@
 ![logo](https://github.com/pravinkdubey/pravinkdubey/blob/main/Cover.png)
-![logo](https://github.com/pravinkdubey/pravinkdubey/blob/main/1690042717996.jpg)
+<img align="center" src="https://github.com/pravinkdubey/pravinkdubey/blob/main/1690042717996.jpg"/>
+<im align="center" src="https://github.com/pravinkdubey/pravinkdubey/blob/main/Tools.png"/>
 <h1 align="center">Hi 👋, I'm Pravin Kumar Dubey</h1>
 <h3 align="center">A passionate for Automation Testing from India</h3>
 
