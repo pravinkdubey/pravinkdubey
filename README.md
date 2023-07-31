@@ -18,6 +18,7 @@
 <h3>
 <p align="left">
 <h3 align="left">Summary</h3>
+
 - 🔭 I’m currently working on **Automation Ecosystem**
 
 - 🌱 I’m currently learning **AI/ML Related Tools and Technologies**
