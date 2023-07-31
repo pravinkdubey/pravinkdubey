@@ -43,7 +43,7 @@
 <p align="left">
     <a href="https://linkedin.com/in/pravin-kumar-dubey" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="pravin-kumar-dubey" height="30" width="40">Pravin Kumar Dubay</img>
+            alt="pravin-kumar-dubey" height="30" width="40">Pravin Kumar Dubey</img>
     </a>
         <br>
     <a href="https://www.youtube.com/@automate_everything" target="blank">
@@ -55,6 +55,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
         <img align="center" src="https://github.com/pravinkdubey/pravinkdubey/blob/main/1690042717996.jpg"/>
+        <hr>
         <img align="center" src="https://github.com/pravinkdubey/pravinkdubey/blob/main/Tools.png"/>
 </p>
 
