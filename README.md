@@ -27,7 +27,7 @@
 - 🤝 I’m looking for help with **Nothing Specific as Of Now 😉😉😉**
   
 - 📝 I regularly write articles on
-[https://www.linkedin.com/newsletters/6986920160938856448?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D](https://www.linkedin.com/newsletters/6986920160938856448?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D)
+<a href="https://www.linkedin.com/newsletters/6986920160938856448?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D">Automate Everything</a>
 
         - 💬 Ask me about **Any Thing Related to Automation**
         - 📫 How to reach me **pravin.k.dubey87@gmail.com**
