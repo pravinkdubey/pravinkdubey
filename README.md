@@ -1,6 +1,7 @@
-![logo](https://github.com/pravinkdubey/pravinkdubey/blob/main/1690042717996.jpg)
+![logo](https://github.com/pravinkdubey/pravinkdubey/blob/main/Cover.png)
 <h1 align="center">Hi 👋, I'm Pravin Kumar Dubey</h1>
 <h3 align="center">A passionate for Automation Testing from India</h3>
+![logo](https://github.com/pravinkdubey/pravinkdubey/blob/main/1690042717996.jpg)
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=pravinkdubey&label=Profile%20views&color=0e75b6&style=flat"
