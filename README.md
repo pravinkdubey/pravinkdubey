@@ -15,7 +15,7 @@
         </a>
 </p>
 -->
-<p align="left"
+<p align="left">
         - 🔭 I’m currently working on **Automation Ecosystem**
         - 🌱 I’m currently learning **AI/ML Related Tools and Technologies**
         - 👯 I’m looking to collaborate on **Utilities**
