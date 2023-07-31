@@ -1,14 +1,20 @@
 ![logo](https://github.com/pravinkdubey/pravinkdubey/blob/main/Cover.png)
 
-<h1 align="center">Hi 👋, I'm Pravin Kumar Dubey</h1>
-<h3 align="center">A passionate for Automation Testing from India</h3>
+<h1 align="center">Hi There 👋, I'm Pravin Kumar Dubey /h1>
+<h2 align="center">A passionate for Automation Engineer from India /h3>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=pravinkdubey&label=Profile%20views&color=0e75b6&style=flat"
-        alt="pravinkdubey" /> </p>
+<p align="left"> 
+        <img src="https://komarev.com/ghpvc/?username=pravinkdubey&label=Profile%20views&color=0e75b6&style=flat"
+        alt="pravinkdubey" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=pravinkdubey" alt="pravinkdubey" /></a> </p>
+<!--
+<p align="left"> 
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+                <img src="https://github-profile-trophy.vercel.app/?username=pravinkdubey" alt="pravinkdubey" />
+        </a>
+</p>
+-->
 
 - 🔭 I’m currently working on **Automation Ecosystem**
 
