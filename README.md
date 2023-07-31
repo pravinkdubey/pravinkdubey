@@ -73,8 +73,8 @@ or
         src="https://github-readme-stats.vercel.app/api?username=pravinkdubey&show_icons=true&locale=en"
         alt="pravinkdubey" />
 </p>
--->
 
 <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinkdubey&" alt="pravinkdubey" />
 </p>
+-->
