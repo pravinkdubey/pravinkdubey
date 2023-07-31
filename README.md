@@ -16,11 +16,11 @@
 </p>
 -->
 <p align="left">
-        - 🔭 I’m currently working on **Automation Ecosystem**
-        - 🌱 I’m currently learning **AI/ML Related Tools and Technologies**
-        - 👯 I’m looking to collaborate on **Utilities**
-        - 🤝 I’m looking for help with **Nothing Specific as Of Now 😉😉😉**
-        - 📝 I regularly write articles on
+- 🔭 I’m currently working on **Automation Ecosystem**
+- 🌱 I’m currently learning **AI/ML Related Tools and Technologies**
+- 👯 I’m looking to collaborate on **Utilities**
+- 🤝 I’m looking for help with **Nothing Specific as Of Now 😉😉😉**
+- 📝 I regularly write articles on
 [https://www.linkedin.com/newsletters/6986920160938856448?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D](https://www.linkedin.com/newsletters/6986920160938856448?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj4g9MwbDR%2Bm40vx3Hn%2FTMQ%3D%3D)
 
         - 💬 Ask me about **Any Thing Related to Automation**
