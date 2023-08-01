@@ -8,7 +8,7 @@
         data-canonical-src="https://img.shields.io/github/followers/pravinkdubey?label=follow&amp;style=social" style="max-width: 100%;">
 </a>
 
-<h2 align="center">A passionate for Automation Engineer from India </h3>
+<h2 align="center">A passionate Automation Engineer from India </h3>
 
 <p align="left"> 
         <img src="https://komarev.com/ghpvc/?username=pravinkdubey&label=Profile%20views&color=0e75b6&style=flat"
