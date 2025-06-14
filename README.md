@@ -1,10 +1,8 @@
 <!-- Banner -->
 <img src="ToolsBanner.jpg" alt="Banner" style="width:100%;"/>
-<img class='profile' src="ProfilePic.jpg" alt="Profile Picture" style="border-radius:50%;object-fit: cover;" width=100 height=100>
 
 # 👋 Hi there, I'm Pravin Dubey
-
-Welcome to my GitHub profile! I'm a passionate software architect with over 14 years of experience in software development, automation testing, and framework engineering. I believe in building intelligent, scalable, and ethical software solutions that empower individuals and uplift communities.
+<img src="ProfilePic.jpg" alt="Profile Picture" style="border-radius:50%;object-fit: cover;" width=100 height=100>Welcome to my GitHub profile! I'm a passionate software architect with over 14 years of experience in software development, automation testing, and framework engineering. I believe in building intelligent, scalable, and ethical software solutions that empower individuals and uplift communities.
 
 ---
 
