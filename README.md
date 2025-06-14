@@ -1,6 +1,6 @@
 <!-- Banner -->
 <img src="ToolsBanner.jpg" alt="Banner" style="width:100%;"/>
-<img src="ProfilePic.jpg" alt="Profile Picture" width="150" height="150" style="border-radius:50%;">
+<img class='profile' src="ProfilePic.jpg" alt="Profile Picture" style="border-radius:50%;object-fit: cover;" width=100 height=100>
 
 # 👋 Hi there, I'm Pravin Dubey
 
