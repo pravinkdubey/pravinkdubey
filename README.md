@@ -1,12 +1,12 @@
 <!-- Banner -->
-<img src="https://github.com/pravinkdubey/pravinkdubey/blob/main/1690042717996.jpg" alt="Banner" style="width:100%;"/>
+<img src="ToolsBanner.jpg" alt="Banner" style="width:100%;"/>
 
-<!-- Profile Picture -->
+Profile Picture
 <p align="center">
-  <img src="profile_picture.png" alt="Profile Picture" width="150" style="border-radius:50%;">
+  <img src="ProfilePic.jpg" alt="Profile Picture" width="150" style="border-radius:50%;">
 </p>
 
-# 👋 Hi there, I'm Pravin Kumar Dubey
+# 👋 Hi there, I'm Pravin Dubey
 
 Welcome to my GitHub profile! I'm a passionate software architect with over 14 years of experience in software development, automation testing, and framework engineering. I believe in building intelligent, scalable, and ethical software solutions that empower individuals and uplift communities.
 
@@ -15,26 +15,30 @@ Welcome to my GitHub profile! I'm a passionate software architect with over 14 y
 ## ✅ Technologies & Skills
 
 **Languages:**  
-C# (13 yrs), Java (10 yrs), Python (6 yrs), JavaScript & TypeScript (4 yrs)
+C# (15 yrs), Java (10 yrs), Python (6 yrs), JavaScript & TypeScript (4 yrs)
 
 **Databases:**  
-MS SQL, MySQL, Oracle, Snowflake
+MSSQL, MySQL, Oracle, Snowflake, Kafka, IBM(Db2i, Db2z, Db2luw) 
 
 **Automation Tools:**  
-- **Web:** Selenium, Playwright, Robot Framework  
-- **Desktop:** CodedUI  
-- **API:** RestSharp  
+- **Web:** Selenium, Playwright, Robot Framework, Cypress, WebDriver.IO, Copado  
+- **Desktop:** CodedUI, WinAppDriver, FlaUI, UFT, LeanFT
+- **API:** HttpClient, httpClientFactory, RestSharp, RestAssured, Copado
 - **Mobile:** Appium, Xamarin.UITest
+- **Accessibility:** LightHouse, Axe, Deque
+- **Performance:** JMeter, LoadRunner
+- **Security:** OWASP, ZAP, NMap, BurpSuite, Metasploit
 
-**Frameworks:** SpecFlow, Cucumber  
-**CI/CD:** Jenkins, Azure DevOps  
-**Code Quality:** SonarQube, Roslyn
+**Frameworks:** MSTest, NUnit, Xunit, JUnit,TestNg, Chai, Mocha, PyTest, Gherkin(Speflow, Cucumber, Reqnroll)  
+**CI/CD:** Jenkins, Azure DevOps, Copado
+**Code Quality:** SonarQube, Roslyn, Snyk
+**Cloud:** SauceLabs, BrowserStack, LambdaTest, AppCenter, Katalon, Copado
 
 ---
 
 ## 🧠 Expertise Highlights
 
-- 14+ years in Training, Software Development, Manual & Automation Testing  
+- 15+ years in Training, Software Development, Manual & Automation Testing  
 - Programming: C#, Java, JavaScript, TypeScript, Python  
 - Test Frameworks: MSTest, xUnit, NUnit, JUnit, TestNG, Chai, Mocha, PyTest, SpecFlow, Cucumber  
 - UI Automation: Selenium, Playwright, WebDriver.IO, WinAppDriver, Xamarin.UITest, Cypress.io  
@@ -42,7 +46,7 @@ MS SQL, MySQL, Oracle, Snowflake
 - Specialized Testing: Accessibility, Performance, Security  
 - DevOps Tools: Azure DevOps, Jenkins, Docker, Sauce Labs, BrowserStack, LambdaTest  
 - Databases: IBM Db2, Oracle, MSSQL, Kafka, Snowflake  
-- Framework Engineering: 55+ reusable components on GitHub  
+- Framework Engineering: 65+ reusable components on GitHub  
 - **Certifications:**  
   ✅ ISTQB CTFL  
   ✅ CertiProf CLA  
@@ -78,21 +82,20 @@ I actively contribute to the open-source community by developing robust, reusabl
 1. **Test Automation Frameworks**  
    - Web: Selenium, Playwright, Cypress  
    - Mobile: Appium, Xamarin.UITest  
-   - Desktop: CodedUI, WinAppDriver  
-   - Features: Modular architecture, reporting, CI/CD, BDD support
+   - Desktop: CodedUI, WinAppDriver
+   - API: RestSharp, HttpClientFactory, RestAssured  
 
-2. **API Testing Utilities**  
-   - Tools: RestSharp, HttpClientFactory, RestAssured  
-   - Integrated with xUnit, JUnit, PyTest
+2. **Testing Utilities**  
+   - Configuration Management
+   - Secret Manager
+   - Reporting
+   - Email
+   - OTP Automation
+   - Azure Integration
+   - Accessibility
 
 3. **CI/CD Integrations**  
    - Pipelines & YAML templates for Azure DevOps and Jenkins
-
-4. **Code Quality & Static Analysis**  
-   - Roslyn analyzers, SonarQube integration
-
-5. **Accessibility & Performance Testing**  
-   - Tools: Lighthouse, axe-core, Pa11y, JMeter, k6
 
 ### 📦 GitHub Highlights
 
