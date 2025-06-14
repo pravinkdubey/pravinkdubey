@@ -1,10 +1,6 @@
 <!-- Banner -->
 <img src="ToolsBanner.jpg" alt="Banner" style="width:100%;"/>
-
-Profile Picture
-<p align="center">
-  <img src="ProfilePic.jpg" alt="Profile Picture" width="150" style="border-radius:50%;">
-</p>
+<img src="ProfilePic.jpg" alt="Profile Picture" width="150" style="border-radius:50%;">
 
 # 👋 Hi there, I'm Pravin Dubey
 
