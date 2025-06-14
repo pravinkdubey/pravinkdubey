@@ -5,7 +5,8 @@
     - [📦 GitHub Highlights](#-github-highlights)
     - [🏆 Impact](#-impact)
   - [🤝 Let's Connect](#-lets-connect)
-  - [📫 Email<br>](#-emailbr)
+    - [🌐 Social](#-social)
+    - [📫 Email<br>](#-emailbr)
 
 <img src="ToolsBanner.jpg" alt="Banner" style="width:100%;"/>
 
