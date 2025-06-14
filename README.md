@@ -32,22 +32,8 @@ MSSQL, MySQL, Oracle, Snowflake, Kafka, IBM(Db2i, Db2z, Db2luw)
 **Frameworks:** MSTest, NUnit, Xunit, JUnit,TestNg, Chai, Mocha, PyTest, Gherkin(Speflow, Cucumber, Reqnroll)  
 **CI/CD:** Jenkins, Azure DevOps, Copado
 **Code Quality:** SonarQube, Roslyn, Snyk
-**Cloud:** SauceLabs, BrowserStack, LambdaTest, AppCenter, Katalon, Copado
-
----
-
-## 🧠 Expertise Highlights
-
-- 15+ years in Training, Software Development, Manual & Automation Testing  
-- Programming: C#, Java, JavaScript, TypeScript, Python  
-- Test Frameworks: MSTest, xUnit, NUnit, JUnit, TestNG, Chai, Mocha, PyTest, SpecFlow, Cucumber  
-- UI Automation: Selenium, Playwright, WebDriver.IO, WinAppDriver, Xamarin.UITest, Cypress.io  
-- API Testing: HttpClient, HttpClientFactory, RestSharp, RestAssured  
-- Specialized Testing: Accessibility, Performance, Security  
-- DevOps Tools: Azure DevOps, Jenkins, Docker, Sauce Labs, BrowserStack, LambdaTest  
-- Databases: IBM Db2, Oracle, MSSQL, Kafka, Snowflake  
-- Framework Engineering: 65+ reusable components on GitHub  
-- **Certifications:**  
+**Cloud:** SauceLabs, BrowserStack, LambdaTest, AppCenter, Katalon, Copado  
+**Certifications:**  
   ✅ ISTQB CTFL  
   ✅ CertiProf CLA  
   ✅ PSM I  
