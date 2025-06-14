@@ -93,6 +93,7 @@ I actively contribute to the open-source community by developing robust, reusabl
 ----->
 
 ## 🤝 Let's Connect
+### 🌐 Social
 <p align="left">
     <a href="https://linkedin.com/in/pravin-kumar-dubey" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -105,7 +106,7 @@ I actively contribute to the open-source community by developing robust, reusabl
     </a>
 </p>
 
-## 📫 Email<br>
+### 📫 Email<br>
 <a href="mailto:pravin.k.dubey87@gmail.com">pravin.k.dubey87@gmail.com</a>
 or
 <a href="mailto:pravin.k.dubey87@outlook.com">pravin.k.dubey87@outlook.com</a>
