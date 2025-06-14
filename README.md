@@ -1,5 +1,3 @@
-
-Index
 - [👋 Hi there, I'm Pravin Dubey](#-hi-there-im-pravin-dubey)
   - [✅ Technologies & Skills](#-technologies--skills)
   - [🌍 Open Source Contributions](#-open-source-contributions)
@@ -8,6 +6,7 @@ Index
     - [🏆 Impact](#-impact)
   - [🤝 Let's Connect](#-lets-connect)
   - [📫 Email<br>](#-emailbr)
+
 <img src="ToolsBanner.jpg" alt="Banner" style="width:100%;"/>
 
 # 👋 Hi there, I'm Pravin Dubey
