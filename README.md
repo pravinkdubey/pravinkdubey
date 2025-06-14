@@ -2,7 +2,7 @@
 <img src="ToolsBanner.jpg" alt="Banner" style="width:100%;"/>
 
 # 👋 Hi there, I'm Pravin Dubey
-Welcome to my GitHub profile! I'm a passionate software architect with 15+ years of experience in software development, automation testing, and framework engineering. I believe in building intelligent, scalable, and ethical software solutions that empower individuals and uplift communities.
+I'm a passionate software architect with 15+ years of experience in software development, automation testing, and framework engineering. I believe in building intelligent, scalable, and ethical software solutions that empower individuals and uplift communities.
 
 ---
 
@@ -11,22 +11,22 @@ Welcome to my GitHub profile! I'm a passionate software architect with 15+ years
 **Languages:**  
 C# (15 yrs), Java (10 yrs), Python (6 yrs), JavaScript & TypeScript (4 yrs)
 
-**Databases:**  
+**Databases🛢️:**  
 MSSQL, MySQL, Oracle, Snowflake, Kafka, IBM(Db2i, Db2z, Db2luw) 
 
 **Automation Tools:**  
-- **Web:** Selenium, Playwright, Robot Framework, Cypress, WebDriver.IO, Copado  
-- **Desktop:** CodedUI, WinAppDriver, FlaUI, UFT, LeanFT
+- **Web🕸️:** Selenium, Playwright, Robot Framework, Cypress, WebDriver.IO, Copado  
+- **Desktop🖥️:** CodedUI, WinAppDriver, FlaUI, UFT, LeanFT
 - **API:** HttpClient, httpClientFactory, RestSharp, RestAssured, Copado
-- **Mobile:** Appium, Xamarin.UITest
+- **Mobile📱:** Appium, Xamarin.UITest
 - **Accessibility:** LightHouse, Axe, Deque
 - **Performance:** JMeter, LoadRunner
-- **Security:** OWASP, ZAP, NMap, BurpSuite, Metasploit
+- **Security🪪:** OWASP, ZAP, NMap, BurpSuite, Metasploit
 
 **Frameworks:** MSTest, NUnit, Xunit, JUnit,TestNg, Chai, Mocha, PyTest, Gherkin(Speflow, Cucumber, Reqnroll)  
 **CI/CD:** Jenkins, Azure DevOps, Copado
 **Code Quality:** SonarQube, Roslyn, Snyk
-**Cloud:** SauceLabs, BrowserStack, LambdaTest, AppCenter, Katalon, Copado  
+**Cloud☁️:** SauceLabs, BrowserStack, LambdaTest, AppCenter, Katalon, Copado  
 **Certifications:**  
   ✅ ISTQB CTFL  
   ✅ CertiProf CLA  
@@ -42,10 +42,10 @@ I actively contribute to the open-source community by developing robust, reusabl
 ### 🔧 Frameworks & Tools
 
 1. **Test Automation Frameworks**  
-   - Web: Selenium, Playwright, Cypress  
-   - Mobile: Appium, Xamarin.UITest  
-   - Desktop: CodedUI, WinAppDriver
-   - API: RestSharp, HttpClientFactory, RestAssured  
+   - **Web**: Selenium, Playwright, Cypress  
+   - **Mobile**: Appium, Xamarin.UITest  
+   - **Desktop**: CodedUI, WinAppDriver
+   - **API**: RestSharp, HttpClientFactory, RestAssured  
 
 2. **Testing Utilities**  
    - Configuration Management
