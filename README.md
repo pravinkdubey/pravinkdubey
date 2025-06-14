@@ -35,24 +35,6 @@ MSSQL, MySQL, Oracle, Snowflake, Kafka, IBM(Db2i, Db2z, Db2luw)
 
 ---
 
-## 🌟 Personal Mission and Philosophy
-
-**Mission Statement**  
-To architect intelligent, scalable, and ethical software solutions that not only drive business success but also uplift communities, empower individuals, and contribute to a more inclusive and sustainable digital future.
-
-**Philosophy**  
-I believe technology is a powerful enabler of positive change. My approach blends technical excellence with human-centric design, rooted in continuous learning and ethical responsibility.
-
-- **Empowering Others:** Mentoring, open-source contributions, knowledge sharing  
-- **Building for Good:** Accessibility, digital equity, community support  
-- **Sustainable Innovation:** Clean code, reusable frameworks, automation  
-- **Ethical Engineering:** Transparency, fairness, security
-
-**Vision**  
-To be a catalyst for a future where technology bridges gaps and every line of code contributes to a more just, connected, and compassionate world.
-
----
-
 ## 🌍 Open Source Contributions
 
 I actively contribute to the open-source community by developing robust, reusable, and scalable automation and testing frameworks.
