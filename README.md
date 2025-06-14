@@ -109,15 +109,15 @@ I actively contribute to the open-source community by developing robust, reusabl
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username" alt="GitHub Trophies" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=pravinkdubey&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinkdubey&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pravinkdubey" alt="GitHub Trophies" />
+</p
 
----
+----->
 
 ## 🤝 Let's Connect
 <p align="left">
