@@ -8,7 +8,7 @@
     - [🌐 Social](#-social)
     - [📫 Email<br>](#-emailbr)
 
-<img src="ToolsBanner.jpg" alt="Banner" style="width:100%;"/>
+<img src="ToolsBanner.jpg" alt="Tools Banner" style="width:100%;"/>
 
 # 👋 Hi there, I'm Pravin Dubey
 I'm a passionate software architect with 15+ years of experience in software development, automation testing, and framework engineering. I believe in building intelligent, scalable, and ethical software solutions that empower individuals and uplift communities.
